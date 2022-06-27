@@ -1,6 +1,6 @@
 # chatapp
 
-A new Flutter project.
+2022 Đặng Văn Huy
 
 ## Getting Started
 
